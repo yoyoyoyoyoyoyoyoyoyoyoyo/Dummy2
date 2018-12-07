@@ -14,6 +14,15 @@ function setup() {
     }
 }
 
+function draw() {
+    background(0,255,0);
+    hu.display();
+    // display all the food
+    for(var i = 0; i < feed.length; i++) {
+        feed[i].display();
+    }
+}
+
 function Food(x, y) {
     // keyword this
     // makes variables public on the object
