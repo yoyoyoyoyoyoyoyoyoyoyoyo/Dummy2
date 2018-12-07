@@ -16,11 +16,16 @@ function setup() {
 
 function draw() {
     background(0,255,0);
+
     hu.display();
     // display all the food
     for(var i = 0; i < feed.length; i++) {
         feed[i].display();
     }
+}
+
+function mousePressed() {
+    hu.eat();
 }
 
 function Food(x, y) {
@@ -59,6 +64,7 @@ function Human() {
             if(r1 + r2 > d) {
                 feed.splice(i, 1);
                 }
+            }
         };   
     
     this.display = function() {   
