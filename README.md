@@ -14,3 +14,5 @@ i vim'd
 +   six year olds should not play it
 +   it can be very violent
 
+# A lady was trying to buy her 6 year old Red Dead
+# I stopped her
