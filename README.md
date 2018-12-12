@@ -23,3 +23,5 @@ i vim'd
 
 # Target is an interestng place to shop
 # They pay 12 dollars an hour
+
+>Target is fun to shop at
