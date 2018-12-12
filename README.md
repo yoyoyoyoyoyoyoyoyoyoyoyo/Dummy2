@@ -22,3 +22,4 @@ i vim'd
 >he will love the game that he chooses
 
 # Target is an interestng place to shop
+# They pay 12 dollars an hour
