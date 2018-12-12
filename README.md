@@ -16,3 +16,5 @@ i vim'd
 
 # A lady was trying to buy her 6 year old Red Dead
 # I stopped her from buying it
+
+>she got a ps4 gift card
