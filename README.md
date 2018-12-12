@@ -8,3 +8,9 @@ i vim'd
 >And I am doing something 
 >Right now
 > I am running for president
+
+
++  Red Dead is a good game 
++   six year olds should not play it
++   it can be very violent
+
