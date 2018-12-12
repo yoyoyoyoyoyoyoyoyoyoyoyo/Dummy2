@@ -26,3 +26,4 @@ i vim'd
 
 >Target is fun to shop at
 > 12 dollars an hour is insane for a high schooler
+> should high schoolers work at targer
