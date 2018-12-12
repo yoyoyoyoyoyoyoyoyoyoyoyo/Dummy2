@@ -18,3 +18,4 @@ i vim'd
 # I stopped her from buying it
 
 >she got a ps4 gift card
+>so the kid could get what he wants
