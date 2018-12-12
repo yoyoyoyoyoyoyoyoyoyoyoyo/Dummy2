@@ -25,3 +25,4 @@ i vim'd
 # They pay 12 dollars an hour
 
 >Target is fun to shop at
+> 12 dollars an hour is insane for a high schooler
