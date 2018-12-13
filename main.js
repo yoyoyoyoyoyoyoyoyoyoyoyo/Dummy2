@@ -69,6 +69,8 @@ function Human() {
     this.display = function() {   
         x = mouseX;
         y = mouseY;
+        
+        
          //leftEar;
         fill('#FAEBD7');
         push();
@@ -130,7 +132,24 @@ function Human() {
         ellipse(x-42, y-26, 40, 40);
 
         //tounge;
-        fill('#EE3E36');
-        arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
+        if (mousePressed) {
+            fill('#EE3E36');
+            arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
+        } else {
+            fill('#FAEBD7');
+            arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
+        }
     }
 } //Last Commit
+
+
+
+/**  if (mousePressed) {
+            fill('#FAEBD7');
+            arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
+        } else {
+            fill('#EE3E36');
+            arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
+        }
+        
+        **/
