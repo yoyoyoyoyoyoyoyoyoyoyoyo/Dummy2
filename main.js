@@ -132,11 +132,11 @@ function Human() {
         ellipse(x-42, y-26, 40, 40);
 
         //tounge;
-        if (mousePressed) {
-            fill('#EE3E36');
+        if (mouseIsPressed) {
+            fill('#FAEBD7');
             arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
         } else {
-            fill('#FAEBD7');
+            fill('#EE3E36');
             arc(x-20 ,y+80 ,40 ,70 ,0 ,PI+QUARTER_PI, CHORD);
         }
     }
